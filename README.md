@@ -20,7 +20,7 @@ const orderParams = {
         // priceProtect: 'TRUE',         // 'TRUE' or 'FALSE'
         // reduceOnly: 'true',           // if you want it to only reduce an existing position
     };
-    ```
+```
 
 3. select all (ctrl(cmd) + A) copy and paste to the browser console opened at logged in binance futures trading page and hit enter.
 
